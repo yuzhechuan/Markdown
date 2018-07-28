@@ -3,7 +3,7 @@
 # QAQ
 
 
----?olor=#1E1F21&
+---?color=#1E1F21&
 ```cpp
 
 #include <bits/stdc++.h>
