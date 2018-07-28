@@ -1,6 +1,6 @@
 * Github账户 新建一个工程，比如share
 * 在该工程下新建一个名叫PITCHME.md<必须叫这个>的文件 这个文件里就是markdown语法写的你要分享啦，或着导出啦的文档
----
++++
 * 拓展方面可以在创建一个PITCHME.yaml的文件 里面可以存储一些配置 比如
   
   ```yaml
@@ -10,7 +10,7 @@
   ```
 详见官网[GitPitch](https://link.jianshu.com/?t=https://github.com/gitpitch/gitpitch/wiki/Slide-Delimiters)
 
----
++++
 
 * 还有一个要注意的点，如果想你的文案可以滑动 需要在 PITCHME.md中
 进行模块分割，因为它一页只能显示么多
@@ -24,7 +24,7 @@
 
     ```
 
----
++++
 
 * 最重要的是怎么访问，上面已经都准备好原材料了，就差煮了。其实访问很简单：
 
