@@ -1,9 +1,7 @@
 
-theme : night
+theme : sky
 
 layout : center-right
-
-logo : assets/images/logo.png
 
 theme-override : assets/css/PITCHME.css
 
@@ -19,4 +17,4 @@ mathjax : TeX-AMS_HTML-full
 
 published : true
 
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+footnote : "yuzhechuan"
