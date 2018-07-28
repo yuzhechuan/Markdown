@@ -3,8 +3,7 @@
 # QAQ
 
 
----?code=src/server.go&lang=golang&color=#1E1F21&title=Simple HTTP Server
-
+---?olor=#1E1F21&
 ```cpp
 
 #include <bits/stdc++.h>
