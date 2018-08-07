@@ -18,11 +18,7 @@
 
 ---
 
-@snap[west splitscreen]
-
-
-
-
+@snap[west splitscreen fragment]
 
 1. 关爱他人献真情
    1. 活动剪影
