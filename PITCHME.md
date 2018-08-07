@@ -19,10 +19,12 @@
 ---
 
 @snap[west splitscreen]
+
 1. 关爱他人献真情
    1. 活动剪影
-   2. 活动随想			
-   3. 表扬信
+   2.  活动随想			
+   3. 表扬信 
+
 @fa[arrow-down]
 @snapend
 
