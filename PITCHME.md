@@ -37,6 +37,8 @@
 
 ## 活动一：关爱他人献真情  
 
+@fa[arrow-down]
+
 @snap[south doclink]
 
 @snapend
