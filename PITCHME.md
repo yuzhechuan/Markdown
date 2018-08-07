@@ -17,31 +17,48 @@
 
 ---
 
-@fa[left-up]
 ## 目录
+
++++
 
 1. 关爱他人献真情 
    1. 活动剪影
    2. 活动随想
    3. 表扬信
+
+<br>
+
+@fa[arrow-down]
+
++++
+
 2. 尊敬老人同携手  
    1. 活动剪影
    2. 活动随想
    3. 表扬信
    4. 活动报道
+
+<br>
+
+@fa[arrow-down]
+
++++
+
 3. 感恩父母学分担 
    1. 活动剪影
    2. 活动随想
+
+<br>
+
+@fa[arrow-down]
 
 ---
 
 ## 活动一：关爱他人献真情  
 
+<br>
+
 @fa[arrow-down]
-
-@snap[south doclink]
-
-@snapend
 
 +++
 
