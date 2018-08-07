@@ -17,7 +17,7 @@
 
 ---
 
-@fa[left]
+@fa[left-up]
 ## 目录
 
 1. 关爱他人献真情 
@@ -38,6 +38,8 @@
 ## 活动一：关爱他人献真情  
 
 @snap[south doclink]
+
+@snapend
 
 +++
 
