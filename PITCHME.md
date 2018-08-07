@@ -21,15 +21,15 @@
 @snap[west splitscreen]
 
 1. 关爱他人献真情
-<br>
-	1.活动剪影
-<br>
-	2.活动随想		
-<br>
-	3.表扬信 
-
-@fa[arrow-down]
-@snapend
+  <br>
+  	1.活动剪影
+  <br>
+  	2.活动随想		
+  <br>
+  	3.表扬信 
+  <br>
+  @fa[arrow-down]
+  @snapend
 
 @snap[east splitscreen]
 @fa[arrow-right]
