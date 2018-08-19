@@ -1,0 +1,47 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+# 102.54.94.97 rhino.acme.com # source server
+# 38.25.63.10 x.acme.com # x client host
+
+# localhost name resolution is handled within DNS itself.
+# 127.0.0.1 localhost
+# ::1 localhost
+
+210.129.120.44 pixiv.net
+
+210.129.120.44 www.pixiv.net
+
+210.129.120.44 app-api.pixiv.net
+
+210.129.120.44 accounts.pixiv.net
+
+210.129.120.44 touch.pixiv.net
+
+210.129.120.44 oauth.secure.pixiv.net
+
+210.140.131.144 source.pixiv.net
+
+210.140.131.145 imgaz.pixiv.net
+
+210.140.131.159 d.pixiv.org
+
+210.140.92.135 pixiv.pximg.net
+
+210.140.92.136 i.pximg.net
+
+151.101.72.249 github.global.ssl.fastly.net 
+ 
+192.30.253.112 github.com
